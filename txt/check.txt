@@ -1,0 +1,58 @@
+=== NGUYEN HOANG VIET ===
+TIME CHECK: 2025-10-30 17:48:19.898438
+FILE: D:\btap2secu\signed.pdf
+=================================================================
+- Đã nạp chứng thư gốc từ PEM thành công.
+- Đã phát hiện vùng chữ ký: FooterSig
+- ByteRange: [0, 165015, 170359, 719]
+- Dung lượng /Contents: 2671 bytes
+- Hash SHA256 được tính lại: cce43e535392833b9315a3d763249f7cf465ce29fea00e8e0b66d846eeec2c60
+- Bắt đầu xác minh chữ ký (thử nhiều cách tương thích)...
+
+----------- Thông tin chi tiết quá trình xác minh ----------
+   Signer info
+   -----------
+   Certificate subject: "Common Name: NGUYEN HOANG VIET, Organization: MyOrg, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+   Certificate SHA1 fingerprint: 47c62108f71cd2fabf20bfa0015bc34ab061f4ed
+   Certificate SHA256 fingerprint: 50a6b87ad052e9300b6a0e5e5756be449ed505cdadb7355ec7c1d9df721b8c37
+   Trust anchor: "Common Name: NGUYEN HOANG VIET, Organization: MyOrg, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN"
+   The signer's certificate is trusted.
+   
+   
+   Integrity
+   ---------
+   The signature is cryptographically sound.
+   
+   The digest algorithm used was 'sha256'.
+   The signature mechanism used was 'sha256_rsa'.
+   
+   
+   Signing time
+   ------------
+   Signing time as reported by signer: 2025-10-30T10:47:19+00:00
+   
+   
+   Modifications
+   -------------
+   The signature covers the entire file.
+   
+   
+   Bottom line
+   -----------
+   The signature is judged VALID.
+   
+----------------------------------------------
+
+Thông tin về người ký:
+   - Tên chủ thể: Common Name: NGUYEN HOANG VIET, Organization: MyOrg, Locality: Thai Nguyen, State/Province: Thai Nguyen, Country: VN
+   - SHA1 Fingerprint: 47  C 6  21  0 8  F7  1 C  D2  F A  BF  2 0  BF  A 0  01  5 B  C3  4 A  B0  6 1  F4  E D
+   - SHA256 Fingerprint: 50  A 6  B8  7 A  D0  5 2  E9  3 0  0B  6 A  0E  5 E  57  5 6  BE  4 4  9E  D 5  05  C D  AD  B 7  35  5 E  C7  C 1  D9  D F  72  1 B  8C  3 7
+- Chuỗi chứng thư: ✅ Được tin cậy hoàn toàn (đã xác minh CA).
+Không có dữ liệu OCSP hoặc CRL.
+- Thời gian ký (UTC): 2025-10-30 10:47:19+00:00  → Giờ VN: 2025-10-30 17:47:19+07:00
+- Kiểm tra chỉnh sửa: ✅ Không có thay đổi nào sau khi ký.
+
+=== KẾT LUẬN CHUNG ===
+Kết quả: CHỮ KÝ HỢP LỆ — FILE VẪN NGUYÊN VẸN.
+
+Quá trình hoàn tất. Báo cáo được lưu tại: D:\btap2secu\check.txt
